@@ -1,1 +1,1 @@
-# yourandmy_type123script
+# yoursandmy_typescript123script
